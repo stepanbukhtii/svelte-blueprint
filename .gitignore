@@ -1,0 +1,21 @@
+node_modules/
+.svelte-kit/
+build/
+dist/
+
+.env
+.env.*
+!.env.example
+
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Intellij
+.idea
+.claude
+
+# VS Code
+.vscode
+
+# Mac
+.DS_Store
